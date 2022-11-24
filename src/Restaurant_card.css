@@ -1,0 +1,42 @@
+.restaurant{
+    display:flex;
+    background-color: rgb(102, 167, 167);
+}
+
+.shop{
+  display: flex;
+  background-color: rgb(186, 135, 148);
+}
+
+.stay{
+  display: flex;
+  background-color: rgb(183, 167, 95);
+}
+
+.rcard{
+ width: 175px;
+  font-size: 12px;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  margin: 25px;
+
+}
+
+.reviewbody{
+    padding-top: 100px;
+    display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  overflow-x: auto;
+}
+
+.rcard-name{
+    font-family: cursive;
+    text-align: center;
+}
+
+.rcard-img{
+  border-radius: 0px;
+}
+

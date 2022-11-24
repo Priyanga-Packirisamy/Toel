@@ -1,0 +1,56 @@
+.language
+{
+    position: relative;
+    top: 100px;
+    left: 400px;
+    height: 500px;
+    width: 600px;
+    background-color: rgb(211, 76, 76);
+}
+.detect_lang
+{
+    float: left;
+    margin-top: 30px;
+    margin-left: 70px;
+    padding-right: 80px;
+}
+.trans_lang
+{
+    margin-top: 57px;
+    padding-left: 50px;
+}
+.input
+{
+    width: 200px;
+    height: 150px;
+    margin-top: 70px;
+    margin-left: 70px;
+    background-color: rgba(241, 234, 234, 0.6) ;
+    /* display: inline; */
+    /* float: left; */
+}
+#text
+{
+    height: 100%;
+    width: 200px;
+}
+.output
+{
+    width: 200px;
+    height: 150px;
+    margin-top: 70px;
+    background-color: rgba(241, 234, 234, 0.6) ;
+    position: relative;
+    left: 350px;
+    bottom: 220px;
+}
+#detect_lang
+{
+    width: 200px;
+    height: 40px;
+}
+#trans_lang
+{
+    width: 200px;
+    height: 40px;
+}

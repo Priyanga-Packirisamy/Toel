@@ -1,0 +1,27 @@
+.hi{
+    box-sizing:40%;
+    border-radius: 20px;
+      margin: 0;
+      padding: 0;
+      position: relative;
+     left:1250px;
+   bottom:200px;
+
+
+  }
+  .btn{
+    font-weight:bold;
+  }
+  .bt{
+    box-sizing:40%;
+    border-radius: 20px;
+      margin: 10px;
+      padding: 5px;
+      position: relative;
+     left:350px;
+   bottom:760px;
+  }
+
+.mapimg{
+    padding-top: 50px;
+}

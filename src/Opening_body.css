@@ -1,0 +1,58 @@
+.nav-items{
+    display: flex;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color: white;
+    opacity: 0.8;
+    box-shadow: 0px 2.98256px 9px;
+    position: fixed;
+    width: 100%;
+}
+
+.nav-logo{
+
+    margin-top: 9px;
+}
+
+.nav-title{
+    margin-left: 400px;
+    margin-right: 100px;
+    font-family: cursive;
+}
+.nav-toel{
+    font-family: cursive;
+    font-weight: 900;
+    color: rgb(91, 150, 150);
+}
+
+.nav-signup{
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-bottom: 20px;
+    background-color: rgb(211, 76, 76);
+    color: white;
+    border-radius: 5px;
+    border-color: rgb(211, 76, 76);
+    font-family: cursive;
+}
+
+.nav-login{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    background-color: rgb(211, 76, 76);
+    color: white;
+    border-radius: 5px;
+    border-color: rgb(211, 76, 76);
+    font-family: cursive;
+}
+
+body{
+    background-color: rgb(239, 231, 231);
+}
+
+.body-img{
+    margin-top: 100px;
+}
+

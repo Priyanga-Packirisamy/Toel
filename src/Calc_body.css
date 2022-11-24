@@ -1,0 +1,74 @@
+*{
+    font-family: cursive;
+    font-variant: small-caps;
+}
+.heading{
+    padding-top: 60px;
+    text-align: center;
+    font-size: 170%;
+}
+.amount{
+    padding-top: 30px;
+    margin-left:50px ;
+    font-size: 150%;
+}
+#amt{
+    position: relative;
+    left: 50px;
+    width: 250px;
+    height: 30px;
+}
+.from{
+    float: left;
+    margin-left: 185px;
+    padding-right: 70px;
+    padding-top: 50px;
+}
+.to{
+    padding-top: 50px;
+    padding-left: 80px;
+}
+.convert{
+    padding-top: 50px;
+    padding-left: 180px;
+    padding-bottom: 20px;
+}
+.display{
+    padding-left: 10px;
+    padding-right: 50px;
+    margin-left: 40px;
+    float: inline;
+    font-size: 130%;
+    width: 250px;
+    background-color:rgb(255, 255, 255,0.2);
+    color: black;
+}
+.calce
+{
+    width: 600px;
+    height: 500px;
+    background-color:rgb(211, 76, 76);
+    position: relative;
+    left: 400px;
+    top: 90px;
+}
+#from_input
+{
+    width: 120px;
+    height: 40px;
+    padding-left: 10px;
+}
+#to_input
+{
+    width: 120px;
+    height: 40px;
+    padding-left: 10px;
+}
+#convert_button
+{
+    width: 200px;
+    height: 40px;
+    background-color:black;
+    color: white;
+    font-size: 120%;
+}

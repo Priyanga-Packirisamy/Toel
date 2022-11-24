@@ -1,0 +1,41 @@
+.body-home{
+    padding-top: 120px;
+    display: flex;
+    align-items: center;
+}
+.offlinemap{
+    margin-right: 10px;
+    margin-left: 20px;
+    padding :10px;
+    background-color: #639EAB;
+    border-radius: 15px;
+}
+.info{
+    margin: 10px;
+    padding :10px;
+    background-color: #F8A325;
+    border-radius: 15px;
+}
+.review{
+    margin: 10px;
+    padding :10px;
+    background-color: white;
+    border-radius: 15px;
+}
+.calc{
+    margin: 10px;
+    padding :10px;
+    background-color: #4C4F50;
+    border-radius: 15px;
+}
+.lang{
+    margin: 10px;
+    padding :10px;
+    background-color: #065169;
+    border-radius: 15px;
+}
+.desc{
+    text-align: center;
+    font-family: cursive;
+    font-size: large;
+}
